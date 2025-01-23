@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: Screenshot 2025-01-23 081308.png
+image: MouseBot.png
 title: "MouseBot"
 date: 2023-05-19
 published: true
