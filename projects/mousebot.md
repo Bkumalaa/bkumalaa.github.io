@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: Screenshot 2025-01-23 081308.png
 title: "MouseBot"
 date: 2023-05-19
 published: true
