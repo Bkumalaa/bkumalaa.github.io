@@ -28,6 +28,28 @@ The learning process has been a little bit of a roller coaster for me. Like lear
 
 WODs are short assignments that have set times for when you should be able to complete the given problem. I find the practice WODs to be very useful as it allows me to test whether or not I remember the syntax while also being able to see what I have to review. This type of assignment is something that I quite enjoy since it brings out a competitive side of me due to wanting to beat my previous time and to see if I can figure out multiple solutions. The timer however can be quite intimidating at first but it forces me to ensure maximum efficiency and prepares me for future challenges that have time limits like job interviews. 
 
+```
+My First WOD
+
+Task
+- Find the sum of all the multiples of 3 or 5 below 1000. Create a Typescript function called “projectEulerOne”.
+Fastest Time
+- 3 minutes amd 33 seconds.
+Code:
+function projectEulerOne (num: number):number{
+    let sum: number = 0;
+    for(let i = 1; i < num; i++){
+        if(i % 3 === 0){
+            sum+=i;
+        }else if(i % 5 === 0){
+            sum+=i;
+        }
+    }
+    return sum;
+}
+console.log(projectEulerOne(1000));
+
+```
 ## Final Thoughts
 
 Overall, I find learning TypeScript to be quite entertaining so far due to the mix of learning its new features and the way it is being taught. I hope that after these next few weeks or months, I will be able to get comfortable with TypeScript to the point where I can possibly start my own project using it. 
