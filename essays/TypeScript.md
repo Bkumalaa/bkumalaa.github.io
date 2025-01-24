@@ -12,8 +12,6 @@ labels:
 
 <img width="400px" class="rounded float-start pe-4" src="../img/javascript-to-typescript.png">
 
-*My TypeScript Journey: Diving into a New Language*
-
 Within the first two weeks of class for ICS 314, we were introduced to a coding language that I am somewhat familiar with, without even knowing it: TypeScript. I say this because I have some experience working with JavaScript when I was in high-school but haven't used it in a while. With a mix of homework assignments and practice WODs (workout of the day), I found the experience to be both exciting and stressful. 
 
 ## Thoughts on TypeScript
