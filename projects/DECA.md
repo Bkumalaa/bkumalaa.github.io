@@ -7,7 +7,7 @@ date: 2022-02-21
 published: true
 labels:
   - Business
-  - Roleplay
+  - Competition
 summary: "A businesss compettion that tested our business knowledge and skills through role-plays and presentations."
 ---
 
