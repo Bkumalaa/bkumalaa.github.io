@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Are you asking correctly?"
 # All dates must be YYYY-MM-DD format!
-date: 2024-30-1
+date: 2024-01-30
 published: true
 labels:
   - Questions
