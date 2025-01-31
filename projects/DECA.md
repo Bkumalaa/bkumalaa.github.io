@@ -10,6 +10,7 @@ labels:
   - Competition
 summary: "A businesss compettion that tested our business knowledge and skills through role-plays and presentations."
 ---
+<img class"img-fluid" src="../img/DECA-Logo.jpg">
 
 During junior year, I was a part of DECA, a business club that gave students the opportunity to compete in a competition with other schools in different business categories called CTSO. We were either competing in pairs or individually and given a category that would best suit us. Part of the competition required us to give a solution to a problem related to our category through a short presentation and would have judges that would ask us questions and determine whether or not we successfully accomplished our task. There was also a written test that would separately take place. 
 
