@@ -70,7 +70,8 @@ Although there is some room for improvement, this is a solid question. This indi
 Although simple questions on how to do something could still be useful to other users, it is important to understand who or where you are asking this. A website like StackOverflow isn’t a place for people to get answers to their homework. In the following example, a user was asking how to delete minimum and maximum from an array. 
 
 ```
-Q: How to delete minimum and maximum from array?
+Q: [How to delete minimum and maximum from array?](https://stackoverflow.com/questions/74168347/how-to-delete-minimum-and-maximum-from-array)
+
 
 I'm a newbie in java. I'm trying to find minimum maximum element in array and then delete the minimum and maximum. This is the code I wrote, it's only working for maximum not for minimum.
 
