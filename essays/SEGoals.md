@@ -11,7 +11,7 @@ labels:
   - Goals
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/javascript-to-typescript.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/SEimage..jfif">
 
 ## What makes it fun?
 My interest in software engineering stems from the ability to tackle problems and developing software. Despite how challenging and frustrating the maintenance side sounds-having to constantly make updates and fixing bugs-it also sounds like something I could enjoy. I like being able to problem solve and learn new techniques to make things more efficient. I find it fulfilling when I am able to implement what I have learned to solve a problem and see it work successfully. 
