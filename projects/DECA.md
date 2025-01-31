@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MouseBot.png
+image: image-400x400.jpg
 title: "DECA (CTSO)"
 date: 2022-02-21
 published: true
