@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MouseBot.png
+image: img/mario.jpg
 title: "RPG"
 date: 2022-12-15
 published: true
