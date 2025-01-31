@@ -23,9 +23,8 @@ Stack Overflow is viewed as a collection of knowledge. It’s a website where co
 
 An example of what experienced users are looking for would be the following. This user is asking how to sort a map descending by values and then alphabetically by keys. 
 
+Q: [How could we sort a Map descending by values and then alphabetically by keys?](https://stackoverflow.com/questions/59007705/how-could-we-sort-a-map-descending-by-values-and-then-alphabetically-by-keys)
 ```
-Q: How could we sort a Map descending by values and then alphabetically by keys?
-
 To participate in a prize draw each one gives his/her firstname.Each letter of a firstname has a value which is its rank in the English alphabet. A and a have rank 1, B and b rank 2 and so on. The length of the firstname is added to the sum of these ranks hence a number som.An array of random weights is linked to the firstnames and each som is multiplied by its corresponding weight to get what they call a winning number.
 
 Example:
@@ -69,10 +68,8 @@ Although there is some room for improvement, this is a solid question. This indi
 
 Although simple questions on how to do something could still be useful to other users, it is important to understand who or where you are asking this. A website like StackOverflow isn’t a place for people to get answers to their homework. In the following example, a user was asking how to delete minimum and maximum from an array. 
 
+[Q: How to delete minimum and maximum from array?](https://stackoverflow.com/questions/74168347/how-to-delete-minimum-and-maximum-from-array)
 ```
-Q: [How to delete minimum and maximum from array?](https://stackoverflow.com/questions/74168347/how-to-delete-minimum-and-maximum-from-array)
-
-
 I'm a newbie in java. I'm trying to find minimum maximum element in array and then delete the minimum and maximum. This is the code I wrote, it's only working for maximum not for minimum.
 
 ```
