@@ -19,5 +19,6 @@ VSCode is an open-source code editor I have used for various classes, from AP Co
 
 ## A Stressful Lesson 
 My first time using ESLint with VSCode was a very stressful one. When I was working on my first assignment, My code was full of red lines and I had no clue why. I first believed that something was wrong with my code, so I traced through each function and couldn’t piece together the issue. I thought that it could've been a missing parenthesis or bracket. Eventually, I realized that it was because of my spacing. Not only my indentation, but I was either missing a space or added a space that was not following the “coding standards”. This led to a very nerve-racking experience of fixing my spaces before the deadline which was in 30 minutes. 
-  
+
+
 Although my first experience with ESLint was not the best, I understand its usefulness. For one, having “coding standards” makes the readability of your code effortless, especially if you are working in a group, making the process of modifying and collaborating on the code easier. I hope that as I continue to use this extension, I will be able to get into the habit of coding in a more professional format. 
