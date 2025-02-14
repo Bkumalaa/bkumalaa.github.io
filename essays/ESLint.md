@@ -12,7 +12,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/SEimage..jfif">
+<img width="400px" class="rounded float-start pe-4" src="../img/ESLint.png">
 
 ## Introduction to ESLint 
 VSCode is an open-source code editor I have used for various classes, from AP Computer Science in high school to 141 Discrete Mathematics for Computer Science in college. However, in Software Engineering, I was introduced to the numerous extensions you can download, including ESLint. ESLint helps to find and fix problems found in your code. This includes making sure that you are following the ‘coding standards”. For example, making sure that you have the right number of spaces to indent or making sure that there is a single newline at the end of your code. Failing to do so will cause your code to be flooded with those annoying, squiggly red lines. 
