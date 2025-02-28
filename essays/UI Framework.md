@@ -27,6 +27,8 @@ The first few WODs we were given were very beginner-friendly. It had a title, he
 
 After being able to do basic tasks, we were introduced to Bootstrap 5. Bootstrap 5 is a UI framework that is a collection of pre-built components and code that is supposed to help the user interface. My impression was that UI frameworks would make the coding process much easier and would allow me to worry about CSS less. From the very start, I was completely lost. Having numerous classes in one class made the learning process difficult. It was clear that there is a large learning curve when using a UI framework like Bootstrap 5. The most difficult challenge for me was being able to recreate a page using Bootstrap 5. Having to match the original home was very difficult as it required a lot of small changes and being able to find what classes I needed to use made it worse due to the abundance of classes and features I could use. The only feature that I found easy to learn was being able to use the icons that Bootstrap 5 has to offer. 
 
+<img width="400px" class="rounded float-start pe-4" src="../ img/NVIDIA.PNG">
+
 ## Final Thoughts
 
 I have come to understand the usefulness of UI frameworks like Bootstrap 5 due to their ability to speed up the process of designing web pages but the time it takes to fully take advantage of UI frameworks makes it daunting to fully invest in learning.  
