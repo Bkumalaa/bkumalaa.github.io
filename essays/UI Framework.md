@@ -13,7 +13,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/javascript-to-typescript.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/tired-overworked-stressed-man-businessman-office-worker-working-computer-vector-cartoon-stick-figure-character-illustration-215503279.webp">
 
 My expectations were optimistic as I shifted from TypeScript to HTML and CSS. I had dabbled in HTML hoping to create a website as my project, and it didn’t seem that bad. However, my class has made me realize how difficult and time-consuming it is to learn and code HTML. In addition to learning two new languages, we were introduced to Bootstrap 5, a UI framework.
 
