@@ -11,7 +11,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/ESLint.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/Blueprint.PNG">
 
 As I continue to learn more about software engineering, I have come across many challenges, from basic homework assignments to important projects or tests. In the future, these problems will escalate in terms of complexity and scalability. But why struggle and waste time on some issue that already has a solution?
 
