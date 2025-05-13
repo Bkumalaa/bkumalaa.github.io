@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/idkwhy.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/ai.png">
 
 ## I. Introduction
 
