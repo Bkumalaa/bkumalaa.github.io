@@ -18,7 +18,7 @@ labels:
 
 ## II. Persoanl Experience with AI
 
-1. Experience WODs e.g. E18
+### 1. Experience WODs e.g. E18
 
 For WOD experiences specifically, I primarily did not use AI and completed them independently. However, there would be a few occasions where I had minor issues, and once I saw the answer, I wanted an explanation why the professor’s solution worked and why what I wrote had errors. 
 
