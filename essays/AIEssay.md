@@ -66,7 +66,7 @@ As mentioned before, I used AI to assist me in writing code in numerous assignme
 
 In this specific class, documenting code was not something we did often. However, outside of this class, I used to rarely use AI. There were very few moments when I found it hard to explain my code in both a short and concise way. 
 
-13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+13. Quality assurance
 
 This is how most of my questions would look when I had issues with my code. It was very helpful since it was specific to my problems, and it explained why it works while explaining the issues with my code. 
 
