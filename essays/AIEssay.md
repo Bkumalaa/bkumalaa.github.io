@@ -22,55 +22,55 @@ labels:
 
 For WOD experiences specifically, I primarily did not use AI and completed them independently. However, there would be a few occasions where I had minor issues, and once I saw the answer, I wanted an explanation why the professor’s solution worked and why what I wrote had errors. 
 
-2. In-class Practice WODs
+### 2. In-class Practice WODs
 
 In-class Practice WODs were quite challenging for me. I recall using AI, specifically ChatGPT, often because although my code would get a similar result to what I wanted, it would often have errors. In addition to this, when we reviewed how to solve the practice WOD, it would be relatively quick, so I would ask ChatGPT questions like “How can I adjust the text to look more like this?” or “Why is this certain section having errors?”. 
 
-3. In-class WODs 
+### 3. In-class WODs 
 
 In-class WODs were almost equally as challenging as the Practice WODs, if not harder. Since this was a pass-or-fail type of assignment, I would often use AI to ensure that my code worked and for assistance when I was confused. 
 
-4. Essays
+### 4. Essays
 
 I rarely found myself using AI when it came to essays. The only time I used AI was mainly to check for grammar mistakes by using Grammarly.  
 
-5. Final project
+### 5. Final project
 
 For the final project, I used AI quite often when it came to writing and explaining code, since it was a group project. I often asked what a specific portion of the code does or how I can fix this so that it looks like how I want it. 
 
-6. Learning a concept/tutorial
+### 6. Learning a concept/tutorial
 
 Learning new concepts was sometimes confusing, so I would refer to AI a few times. However, I would mainly refer to websites like GeeksforGeeks and W3Schools before referring to AI, since they are also good references. 
 
-7. Answering a question in class or in Discord
+### 7. Answering a question in class or in Discord
 
 I never used AI for answering questions in class or in Discord because I rarely answered any questions. 
 
-8. Asking or answering a smart-question
+### 8. Asking or answering a smart-question
 
 I never used AI to ask or answer advanced questions, especially on the Discord channel, because I didn’t engage in those types of discussions.
 
-9. Coding example e.g. “give an example of using Underscore .pluck”
+### 9. Coding example e.g. “give an example of using Underscore .pluck”
 
 When it came to coding examples, AI would be quite useful. The examples they provided were simple and easy to understand.
 
-10. Explaining code
+### 10. Explaining code
 
 During the final project, it was a group project, so I would occasionally ask ChatGPT and Deepseek what this code does or how it works, especially when it comes to the database. 
 
-11. Writing code
+### 11. Writing code
 
 As mentioned before, I used AI to assist me in writing code in numerous assignments, like the WODs and the final project. 
 
-12. Documenting code
+### 12. Documenting code
 
 In this specific class, documenting code was not something we did often. However, outside of this class, I used to rarely use AI. There were very few moments when I found it hard to explain my code in both a short and concise way. 
 
-13. Quality assurance
+### 13. Quality assurance
 
 This is how most of my questions would look when I had issues with my code. It was very helpful since it was specific to my problems, and it explained why it works while explaining the issues with my code. 
 
-14. Other uses in ICS 314 not listed
+### 14. Other uses in ICS 314 not listed
 
 One way that I used ChatGPT that was not listed was coming up with different ideas and titles for the group project. 
 
