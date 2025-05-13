@@ -14,7 +14,7 @@ labels:
 
 ## I. Introduction
 
-As Artificial Intelligence (AI) continues to advance, it has introduced a new and arguably easier way to personalize learning and research. It allows users to ask specific questions while receiving responses that can be concise and easier to understand. Besides education, it has revolutionized numerous working fields, including Software Engineering, where it can identify possible errors, generate code, and assist with managing and optimizing projects. In my first Software Engineering class, I have used a few AI tools to help me with numerous assignments, from homework to projects. This includes ChatGPT and Deepseek. 
+  As Artificial Intelligence (AI) continues to advance, it has introduced a new and arguably easier way to personalize learning and research. It allows users to ask specific questions while receiving responses that can be concise and easier to understand. Besides education, it has revolutionized numerous working fields, including Software Engineering, where it can identify possible errors, generate code, and assist with managing and optimizing projects. In my first Software Engineering class, I have used a few AI tools to help me with numerous assignments, from homework to projects. This includes ChatGPT and Deepseek. 
 
 ## II. Persoanl Experience with AI
 
