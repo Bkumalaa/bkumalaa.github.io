@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/idkwhy.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/pic.png">
 
 Taking ICS 314 this semester taught me a lot about software engineering and the fundamentals of web applications. Unlike my previous classes, we learned various coding languages and how to use different tools and extensions. Before this course, my perception of software engineering was basic web application development with HTML and CSS being the primary languages that we would learn, and I assumed that would be the main focus of the class. Although it was taught, I learned about the importance of Coding standards and the Ethics in Software Engineering. 
 
