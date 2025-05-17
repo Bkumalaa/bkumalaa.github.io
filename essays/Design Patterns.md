@@ -4,7 +4,7 @@ type: essay
 title: "The Blueprint to Success"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-24
-published: true
+published: false
 labels:
   - Computer Science
   - Coding Standards
